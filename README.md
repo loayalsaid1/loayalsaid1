@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/loayalsaid1" target="blank"><img src="https://img.shields.io/twitter/follow/loayalsaid1?logo=twitter&style=for-the-badge" alt="loayalsaid1" /></a> </p>
 
-- 🔭 I’m currently working on [ProLearningHub](https://github.com/georgekwm1/School-Hub)
+- 🔭 I’m currently working on [ProLearningHub](https://github.com/georgekwm1/School-Hub) + [RemindMe](https://github.com/loayalsaid1/RemindMe)
 
-- 🌱 I’m currently learning **React, Redux, CSS, Database migrations.**
+- 🌱 I’m currently digging in **React, Redux, CSS** these 2 month also Learning **PWAs, Database migrations.**
 
-- 👯 I’m looking to collaborate on **Low level programming projects Or I would love to generally collaborate if there is a good idea that solves actual project.. I would love to.**
+- 👯 I’m looking to collaborate on **Low level programming projects Or I would love to generally collaborate if there is a good idea that solves actual problem.. I would love to.**
 
-- 🤝 I’m looking for help with [RemindMe](https://github.com/loayalsaid1/RemindMe)
-
-- 💬 Ask me about **C, React, Small/medium projects management.**
+- 💬 Ask me about **C, React, Flask, SqlAlchemy and Small/medium projects management.**
 
 - 📫 How to reach me **l.programming555@gmail.com**
 
