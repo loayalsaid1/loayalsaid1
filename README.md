@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **l.programming555@gmail.com**
 
-- ⚡ Fun fact **I somehow love languages, psychology and literature.. just as I love math and some sciences.... I love and Did work in very diverse community and idferent kind of people.. So i'm social.. But I actually don't like to stay on socialm media.. IDK.. Is this fun? because I'm using a template here honestly to start.. 🙂😇**
+- ⚡ Fun fact **I somehow love languages, psychology and literature.. just as I love math and some sciences.... I love and Did work in a very diverse community and different kinds of people.. So i'm social.. But, actually, I wouldn't say I like to stay on social media.. IDK.. Is this fun? because I'm using a template here honestly to start.. 🙂😇**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
