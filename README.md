@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Loay Al-Said</h1>
-<h3 align="center">A software engineer specializing in Front-End from Egypt</h3>
+<h3 align="center">A software engineer specializing in React based Front-End from Egypt</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loayalsaid1" alt="loayalsaid1" /></a> </p>
 
