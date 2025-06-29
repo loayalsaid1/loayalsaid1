@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **l.programming555@gmail.com**
 
-- 🏢 My [CV](https://docs.google.com/document/d/1S9Qbds_btxTHo_6bLHATxFOlLQ79bSPDe-FBq-zpRG4/edit?usp=sharing) - Hire Me 
+- 🏢 My [CV](https://docs.google.com/document/d/1KRIGIXYeoSxvx8Uyk8qiJsgcmQdIRw7t1hQsHZpVQ3E/edit?usp=sharing) - Hire Me 
 
 - ⚡ Fun fact **I somehow love languages, psychology and literature.. just as I love math and some sciences.... I love and Did work in a very diverse community and different kinds of people.. So i'm social.. But, actually, I wouldn't say I like to stay on social media.. IDK.. Is this fun? because I'm using a template here honestly to start.. 🙂😇**
 
