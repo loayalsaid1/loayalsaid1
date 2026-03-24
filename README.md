@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Loay Al-Said</h1>
-<h3 align="center">A software engineer specializing in React based Front-End from Egypt</h3>
+<!-- <h3 align="center">A software engineer specializing in React based Front-End from Egypt</h3> -->
+<h3 align="center">A software engineer from Egypt</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loayalsaid1" alt="loayalsaid1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/loayalsaid1" target="blank"><img src="https://img.shields.io/twitter/follow/loayalsaid1?logo=twitter&style=for-the-badge" alt="loayalsaid1" /></a> </p>
 
-- 🔭 I’m currently working on [ProLearningHub](https://github.com/Pro-Learning-Hub/School-Hub) (Long Term project) + [RemindMe](https://github.com/loayalsaid1/RemindMe) (Gradual Update) 
+- 🔭 I’m currently working on [Axonelix](https://github.com/loaylsaid1/Axonelix)
 
-- 🌱 I’m currently digging in **React ecosystem & Blockchain dev**.
+- 🌱 I’m currently digging in **NestJS and Nextjs**.
 
 - 👯 I’m looking to collaborate on **My current projects Or I would love to generally collaborate on weekends if there is a good idea that solves an actual problem.. I would love to.**
 
-- 💬 Ask me about **C, React, Flask, SqlAlchemy and Small/medium projects management.**
+- 💬 Ask me about **Nestjs, React & Nextjs, Docker and C. Also, ask me SQLAlchemy, python, Nginx**
 
 - 📫 How to reach me **l.programming555@gmail.com**
 
