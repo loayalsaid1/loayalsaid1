@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/loayalsaid1" target="blank"><img src="https://img.shields.io/twitter/follow/loayalsaid1?logo=twitter&style=for-the-badge" alt="loayalsaid1" /></a> </p>
 
-- 🔭 I’m currently working on [Axonelix](https://github.com/loaylsaid1/Axonelix)
+- 🔭 I’m currently working on [Axonelix](https://github.com/loayalsaid1/Axonelix)
 
 - 🌱 I’m currently digging in **NestJS and Nextjs**.
 
